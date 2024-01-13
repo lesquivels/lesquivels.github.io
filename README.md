@@ -1,2 +1,2 @@
 # lesquivels.github.io
-Eng. Luis Esquivel, M.Sc. Porfolio for Data related projects
+Eng. Luis Esquivel, M.Sc. Portfolio of Data related projects
